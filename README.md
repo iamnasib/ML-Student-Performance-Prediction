@@ -15,4 +15,4 @@ Automatically save the trained model and data pipeline as model.pkl and pipeline
 - pip install -r requirements.txt
 - Run python file
 
-You can also compare the prices of the predicted-performance.csv with the original test set (test_data.csv)
+You can also compare the scores(G3) of the predicted-performance.csv with the original test set (test_data.csv)
